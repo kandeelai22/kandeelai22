@@ -38,6 +38,7 @@ class AhmedKandeel:
     content = "AI education from zero to production"
     mission = "Make AI simple, practical, and accessible"
 
+````
 
 I'm an **AI Engineer** working on real-world **projects & freelance work**,
 and a **content creator** teaching **Artificial Intelligence in Arabic** —
@@ -47,32 +48,38 @@ from **math foundations** to **production-ready AI systems**.
 
 ## 🔥 What I Do
 
-* 🧠 Teach **AI from scratch**
-* 📐 Explain **Mathematics for AI**
-* 🗺️ Create clear **AI Roadmaps**
-* 🧩 Build **End-to-End AI Projects**
-* 🛠️ Share practical **AI Tools**
+* 🧠 Teach **AI from scratch** (no fluff, real understanding)
+* 📐 Explain **Mathematics for AI** (Linear Algebra, Calculus, Probability)
+* 🗺️ Create **clear AI Roadmaps** (what to learn, when, and why)
+* 🧩 Build **End-to-End AI Projects** (data → model → deployment)
+* 🛠️ Share practical **AI tools** (LLMs, Copilot, Kaggle, workflows)
 
 ---
 
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,git,github,linux,vscode,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib&perline=4" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,git,github,linux,vscode,cpp&perline=8" />
 </p>
 
 ---
 
-## 🎬 YouTube – Kandeel AI
+## 🎬 YouTube Channel – Kandeel AI
 
-* ✅ AI from zero to advanced
-* ✅ Math explained simply
-* ✅ Real AI projects
-* ✅ Career roadmaps
-* ✅ Tools used by AI Engineers
+On my channel, I focus on:
 
-📌 Language: Arabic
-📌 Goal: Turn learners into real AI builders
+* ✅ Artificial Intelligence from **zero to advanced**
+* ✅ Math explained **visually & intuitively**
+* ✅ Real **AI projects step-by-step**
+* ✅ Career **roadmaps for AI & ML**
+* ✅ Tools & workflows used by AI Engineers
+
+📌 **Language:** Arabic
+📌 **Goal:** Turn learners into real AI builders
 
 ---
 
@@ -87,21 +94,17 @@ from **math foundations** to **production-ready AI systems**.
 
 ## 🌱 Currently
 
-* 📚 Building AI learning paths
-* 🧠 Developing real-world AI projects
-* 🎥 Creating Arabic AI content
-* 🌍 Preparing personal website
+* 📚 Building structured **AI learning paths**
+* 🧠 Developing **real-world AI projects**
+* 🎥 Growing Arabic AI education content
+* 🌍 Preparing for a future **personal website**
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let’s Connect
 
 * 📺 YouTube: [https://www.youtube.com/@kandeelai22](https://www.youtube.com/@kandeelai22)
 * 💼 LinkedIn: [https://www.linkedin.com/in/kandeelai22](https://www.linkedin.com/in/kandeelai22)
 * 📊 Kaggle: [https://www.kaggle.com/kandeelai22](https://www.kaggle.com/kandeelai22)
 
-````
-
-
-أنا معاك خطوة خطوة 👑🤖
-````
+```
