@@ -58,13 +58,7 @@ from **math foundations** to **production-ready AI systems**.
 
 ## 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib&perline=4" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,git,github,linux,vscode,cpp&perline=8" />
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,git,github,linux,vscode,cpp" /> </p>
 
 ---
 
@@ -83,12 +77,7 @@ On my channel, I focus on:
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kandeelai22&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kandeelai22&theme=tokyonight&hide_border=true" width="48%" />
-</p>
 
 ---
 
