@@ -1,4 +1,3 @@
-````html
 <h1 align="center">Hi, I'm Ahmed Kandeel 👋</h1>
 <h3 align="center">
 AI Engineer 🤖 | AI Educator 🎓 | Content Creator 🎥
@@ -38,7 +37,7 @@ class AhmedKandeel:
     language = "Arabic"
     content = "AI education from zero to production"
     mission = "Make AI simple, practical, and accessible"
-````
+
 
 I'm an **AI Engineer** working on real-world **projects & freelance work**,
 and a **content creator** teaching **Artificial Intelligence in Arabic** —
